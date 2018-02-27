@@ -7,6 +7,14 @@ BG-COLORS
     WHITE
     BLACK
     RED
+    BLUE
+    YELLOW
+    GREEN
+    ORANGE
+    PINK
+    PURPLE
+    GRAY
+
 ***/
 
 /*white*/
@@ -41,4 +49,158 @@ BG-COLORS
 .bg_red--1
 {
     background-color:#ffcdd2;
+}
+
+/*blue*/
+.bg_blue--5
+{
+    background-color:#00f;
+}
+.bg_blue--4
+{
+    background-color:#1565c0;
+}
+.bg_blue--3
+{
+    background-color:#2196f3;
+}
+.bg_blue--2
+{
+    background-color:#bbdefb;
+}
+.bg_blue--1
+{
+    background-color:#bbdefb;
+}
+
+/*yellow*/
+.bg_yellow--5
+{
+    background-color: yellow;
+}
+.bg_yellow--4
+{
+    background-color:#ffeb3b;
+}
+.bg_yellow--3
+{
+    background-color:#ffee58;
+}
+.bg_yellow--2
+{
+    background-color:#fff176;
+}
+.bg_yellow--1
+{
+    background-color:#fff9c4;
+}
+
+/*green*/
+.bg_green--5
+{
+    background-color:green;
+}
+.bg_green--4
+{
+    background-color:#2e7d32;
+}
+.bg_green--3
+{
+    background-color:#43a047;
+}
+.bg_green--2
+{
+    background-color:#81c784;
+}
+.bg_green--1
+{
+    background-color:#c8e6c9;
+}
+
+/*orange*/
+.bg_orange--5
+{
+    background-color:orange;
+}
+.bg_orange--4
+{
+    background-color:#ef6c00;
+}
+.bg_orange--3
+{
+    background-color:#fb8c00;
+}
+.bg_orange--2
+{
+    background-color:#ffb74d;
+}
+.bg_orange--1
+{
+    background-color:#ffcc80;
+}
+
+/*pink*/
+.bg_pink--5
+{
+    background-color:pink;
+}
+.bg_pink--4
+{
+    background-color:#ff4081;
+}
+.bg_pink--3
+{
+    background-color:#e91e63;
+}
+.bg_pink--2
+{
+    background-color:#f48fb1;
+}
+.bg_pink--1
+{
+    background-color:#f8bbd0;
+}
+
+/*purple*/
+.bg_violet--5
+{
+    background-color:purple;
+}
+.bg_violet--4
+{
+    background-color:#6a1b9a;
+}
+.bg_violet--3
+{
+    background-color:#8e24aa;
+}
+.bg_violet--2
+{
+    background-color:#ce93d8;
+}
+.bg_violet--1
+{
+    background-color:#e1beef;
+}
+
+/*gray*/
+.bg_violet--5
+{
+    background-color:gray;
+}
+.bg_gray--4
+{
+    background-color:#616161;
+}
+.bg_gray--3
+{
+    background-color:757575;
+}
+.bg_gray--2
+{
+    background-color:#bdbdbd;
+}
+.bg_gray--1
+{
+    background-color:#e0e0e0;
 }
