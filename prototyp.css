@@ -1,0 +1,44 @@
+
+
+/***
+INDEX
+
+COLORS
+    WHITE
+    BLACK
+    RED
+***/
+
+/*white*/
+.white
+{
+    color: #fff;
+}
+
+/*black*/
+.black
+{
+    color: #000;
+}
+
+/*red*/
+.red--5
+{
+    color:#f00;
+}
+.red--4
+{
+    color:#b71c1c;
+}
+.red--3
+{
+    color:#d3dfdf;
+}
+.red--2
+{
+    color:#e57373;
+}
+.red--1
+{
+    color:#ffcdd2;
+}
