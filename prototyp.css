@@ -3,42 +3,42 @@
 /***
 INDEX
 
-COLORS
+BG-COLORS
     WHITE
     BLACK
     RED
 ***/
 
 /*white*/
-.white
+.bg_white
 {
-    color: #fff;
+    background-color: #fff;
 }
 
 /*black*/
-.black
+.bg_black
 {
-    color: #000;
+    background-color: #000;
 }
 
 /*red*/
-.red--5
+.bg_red--5
 {
-    color:#f00;
+    background-color:#f00;
 }
-.red--4
+.bg_red--4
 {
     color:#b71c1c;
 }
-.red--3
+.bg_red--3
 {
-    color:#d3dfdf;
+    background-color:#d3dfdf;
 }
-.red--2
+.bg_red--2
 {
-    color:#e57373;
+    background-color:#e57373;
 }
-.red--1
+.bg_red--1
 {
-    color:#ffcdd2;
+    background-color:#ffcdd2;
 }
