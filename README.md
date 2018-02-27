@@ -21,8 +21,8 @@ BEM inspired see [here](https://abdurrahmaanjanhangeer.wordpress.com/2018/02/18/
 - [x] green
 - [x] orange
 - [x] pink
-- [ ] purple
-- [ ] gray
+- [x] purple
+- [x] gray
 
 ### colors
 - [ ] white

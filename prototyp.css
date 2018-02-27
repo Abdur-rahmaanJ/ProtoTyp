@@ -3,6 +3,10 @@
 /***
 INDEX
 
+COLORS
+    WHITE
+    BLACK
+
 BG-COLORS
     WHITE
     BLACK
@@ -17,6 +21,17 @@ BG-COLORS
 
 ***/
 
+/*** COLORS ***/
+.c_white
+{
+    color:white;
+}
+.c_black
+{
+    color: black;
+}
+
+/*** BG-COLORS ***/
 /*white*/
 .bg_white
 {
