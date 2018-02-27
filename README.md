@@ -5,6 +5,9 @@ A css library for quick prototyping
 
 🇲🇺
 
+## Contribs
+feel free to propose something
+
 ## CSS naming convention
 
 BEM see [here](https://abdurrahmaanjanhangeer.wordpress.com/2018/02/18/bem-simple-css-naming-approach/)
