@@ -14,7 +14,7 @@ BEM see [here](https://abdurrahmaanjanhangeer.wordpress.com/2018/02/18/bem-simpl
 
 ## TODO
 
-### colors 5 levels
+### background colors 5 levels
 - [ ] red
 - [ ] blue
 - [ ] yellow
