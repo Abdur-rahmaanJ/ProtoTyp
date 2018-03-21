@@ -25,8 +25,8 @@ BEM inspired see [here](https://abdurrahmaanjanhangeer.wordpress.com/2018/02/18/
 - [x] gray
 
 ### colors
-- [ ] white
-- [ ] black
+- [x] white
+- [x] black
 
 ### shapes
 - [ ] round
