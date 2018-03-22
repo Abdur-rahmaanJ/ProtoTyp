@@ -10,18 +10,23 @@ feel free to propose something
 
 ## CSS naming convention
 
-BEM see [here](https://abdurrahmaanjanhangeer.wordpress.com/2018/02/18/bem-simple-css-naming-approach/)
+BEM inspired see [here](https://abdurrahmaanjanhangeer.wordpress.com/2018/02/18/bem-simple-css-naming-approach/)
 
 ## TODO
 
 ### background colors 5 levels
-- [ ] red
-- [ ] blue
-- [ ] yellow
-- [ ] green
-- [ ] orange
-- [ ] pink
-- [ ] violet
+- [x] red
+- [x] blue
+- [x] yellow
+- [x] green
+- [x] orange
+- [x] pink
+- [x] purple
+- [x] gray
+
+### colors
+- [x] white
+- [x] black
 
 ### shapes
 - [ ] round
