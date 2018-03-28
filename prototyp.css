@@ -249,9 +249,14 @@ BEHAVIOUR
     background-color:#e0e0e0;
 }
 
-.round
+.r
 {
     border-radius: 50%;
+}
+
+.f
+{
+    display: inline-block;
 }
 
 .sq25
@@ -259,7 +264,3 @@ BEHAVIOUR
     width: 25px; height: 25px;
 }
 
-.flow
-{
-    display: inline-block;
-}
