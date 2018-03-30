@@ -3,6 +3,11 @@
 /***
 INDEX
 
+CARD
+    BACKGROUND
+    SHADOW
+    COLOR
+
 COLORS
     WHITE
     BLACK
@@ -27,6 +32,19 @@ BEHAVIOUR
     FLOW
 
 ***/
+
+/*** CARD ***/
+.cardbg
+{
+    background-color: #F1F1F1;
+}
+
+.cardsha
+{
+    background-color: #C0C0C0;
+}
+
+/*card color is white*/
 
 /*** COLORS ***/
 .cwhite
